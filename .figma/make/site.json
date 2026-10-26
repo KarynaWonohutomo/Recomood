@@ -1,0 +1,8 @@
+{
+  "title": "Recomood",
+  "description": "Personalized ADHD focus app that assesses user state to deliver research-backed recommendations, track progress, and enhance concentration effectively.",
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
